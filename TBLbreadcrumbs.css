@@ -85,6 +85,9 @@ p.leftpquote {float: left; width: 8.0em; background: #D6C299; padding:1.0em; mar
 
 p.rightpquote {float: right; width: 8.0em; background: #D6C299; padding:1.0em; margin: 0.4em 0.0em 0.0em 0.4em ; font-size: 1.1em;}
 
+p.leftpquote1 {float: left; height: 12.0em; width: 6.5em; background: #D6C299; padding:1.0em; margin: 0.4em 0.4em 0.0em 0.0em ; font-size: 1.1em; text-indent: 0px;}
+
+
 /* "pquote" is for "pull quote" or the call outs.*/ 
 
 
